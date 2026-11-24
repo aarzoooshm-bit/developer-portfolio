@@ -1,25 +1,32 @@
 # Aarzoo Sharma — Developer Portfolio
-> BCA (Hons) AI & Data Science Student | K.R. Mangalam University, Gurugram | Batch 2026-29
+
+BCA (Hons) AI & Data Science Student | K.R. Mangalam University
 
 ---
 
 ## Repository Index
+
 | Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| [cse103-lab-LAB3](https://github.com/aarzoooshm-bit/cse103-lab-LAB3) | CSE103 lab — Git, APIs, Shell scripting | Git, Python, Bash | Active |
-| [developer-portfolio](https://github.com/aarzoooshm-bit/developer-portfolio) | This portfolio index | Markdown | Active |
+|---|---|---|---|
+| [CSE103 Lab 3](https://github.com/aarzoooshm-bit/cse103-lab-LAB3) | CSE103 lab work | Git, Python, Bash | Active |
+| [Developer Portfolio](https://github.com/aarzoooshm-bit/developer-portfolio) | Portfolio index and roadmap | Markdown | Active |
 
 ---
 
 ## Current Skills
+
 - Python: Beginner
 - Linux / Bash: Beginner
 - Git / GitHub: Beginner
 
----
-
 ## Learning Roadmap
-See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my learning plan.
+
+See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my six-semester learning plan.
+
+## Specialisation
+
+Data Science and AI/ML
 
 ## Progress Tracker
-See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
+
+I will keep updating this repository with my labs, projects, certifications, and coding progress.
