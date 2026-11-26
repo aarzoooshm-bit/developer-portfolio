@@ -30,3 +30,5 @@ Data Science and AI/ML
 ## Progress Tracker
 
 I will keep updating this repository with my labs, projects, certifications, and coding progress.
+
+See [PROGRESS.md](./PROGRESS.md) for coding platform progress.
