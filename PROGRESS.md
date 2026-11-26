@@ -17,9 +17,9 @@
 - Medium solved : 2
 
 ## freeCodeCamp
-- Profile URL : Not created yet
+- Profile URL : https://www.freecodecamp.org/aarzoooshm-bit
 - Current track : Responsive Web Design
-- Steps completed : 0 / 25
+- Steps completed : 25 / 25
 
 ---
 
